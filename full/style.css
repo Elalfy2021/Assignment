@@ -1,0 +1,28 @@
+
+
+
+
+.head{
+    color: red;
+    font-size: 30px;
+    
+}
+ul {
+    font-size: 25px;
+   
+}
+
+ul li{
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top:10px ;
+}
+
+.container{
+    padding: 20px;
+  
+}
+.data{
+    font-size:30px ;
+    padding-left: 20px;
+}
